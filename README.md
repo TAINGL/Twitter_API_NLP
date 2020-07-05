@@ -21,7 +21,7 @@ You must install **MongoDB** and **SQLite** in your machine before using the app
 1. Download the GitHub repository
 
 ```bash
-git clone https://github.com/Nohossat/twitter_nlp.git
+git clone https://github.com/TAINGL/Twitter_API_NLP.git
 ```
 
 2. Install dependencies
