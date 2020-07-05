@@ -32,10 +32,6 @@ pip install -r requirements.txt
 
 3. Launch the app
 
-You can launch the app from the CLI with 2 arguments : the JSON credentials file path and the search value.
-
 ```python
 python apply_twitter.py
 ```
-
-A template of the credentials file is provided (credentials.json) but you have to replace the missing credentials with your own.
